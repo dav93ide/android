@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main_layout" type="id" />
+    <item name="bttn_01" type="id" />
+    <item name="txtChain_01" type="id" />
+    <item name="txtChainV_01" type="id" />
+    <item name="bttnChain_01" type="id" />
+    <item name="bttnChain_02" type="id" />
+    <item name="bttnChain_03" type="id" />
+    <item name="bttnChain_04" type="id" />
+    <item name="bttnChain_05" type="id" />
+    <item name="bttnChain_06" type="id" />
+    <item name="chainH_01" type="id" />
+</resources>

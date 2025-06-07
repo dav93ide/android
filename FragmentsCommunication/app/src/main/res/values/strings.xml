@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentsCommunication</string>
+    <string name="mainActText">Inserted:  </string>
+    <string name="bttnFragText_1">Fragment 1</string>
+    <string name="bttnFragText_2">Fragment 2</string>
+    <string name="bttnGetValue_1">GET!</string>
+    <string name="bttnSetValue">Set Value!</string>
+    <string name="bttnGetValue">Get Value!</string>
+    <string name="editText">Write Here</string>
+</resources>

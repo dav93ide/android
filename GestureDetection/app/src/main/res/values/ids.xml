@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="gestureLinearL" type="id" />
+    <item name="doneGestureText" type="id" />
+    <item name="gOverlay" type="id" />
+    <item name="radioGroup_1" type="id" />
+    <item name="radioG1_1" type="id" />
+    <item name="radioG1_2" type="id" />
+    <item name="radioG1_3" type="id" />
+</resources>

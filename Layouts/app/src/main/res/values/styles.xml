@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="titleStyle_01">
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:paddingLeft">100dp</item>
+        <item name="android:paddingRight">100dp</item>
+    </style>
+
+    <style name="labelStyle_01">
+        <item name="android:textSize">15dp</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+
+    <style name="spinnerStyle_01">
+        <item name="android:textSize">15dp</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:colorBackground">#FF471A</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+
+    <style name="buttonStyle_01">
+        <item name="android:textSize">15dp</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+</resources>

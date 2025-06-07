@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/dialog_info"
+        android:layout_width="match_parent"
+        android:layout_height="134dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="78dp"
+        android:padding="10dp"
+        android:text="BLABLA PROVA PROVA"
+        android:textColor="#00C" />
+
+    <LinearLayout
+        android:id="@+id/bttnLayout"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="300dp">
+
+        <View
+            android:layout_width="50px"
+            android:layout_height="match_parent" />
+
+        <Button
+            android:id="@+id/dialog_cancel"
+            android:layout_width="75px"
+            android:layout_height="match_parent"
+            android:layout_weight="0.20"
+            android:background="#F00"
+            android:text="Cancel" />
+
+        <View
+            android:layout_width="50px"
+            android:layout_height="match_parent"/>
+
+        <Button
+            android:id="@+id/dialog_ok"
+            android:layout_width="75px"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2"
+            android:background="#0F0"
+            android:text="Agree" />
+
+        <View
+            android:layout_width="50px"
+            android:layout_height="match_parent"/>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="100px"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/bttnLayout" />
+
+</RelativeLayout>

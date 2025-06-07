@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="bttn_01">Test Button 01</string>
+    <string name="txtChain_01">Horizontal Chain:</string>
+    <string name="txtChainV_01">Vertical Chain:</string>
+    <string name="bttnChain_01">ChainH1</string>
+    <string name="bttnChain_02">ChainH2</string>
+    <string name="bttnChain_03">ChainH3</string>
+    <string name="bttnChain_04">ChainV1</string>
+    <string name="bttnChain_05">ChainV2</string>
+    <string name="bttnChain_06">ChainV3</string>
+</resources>

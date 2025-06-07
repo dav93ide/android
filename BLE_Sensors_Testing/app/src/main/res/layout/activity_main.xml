@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/bttn_scan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="START SCAN"/>
+
+    <Button
+        android:id="@+id/bttn_read"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="READ RSSI"/>
+
+    <TextView
+        android:id="@+id/tv_scanning"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tv_elmetto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Elmetto"/>
+
+    <TextView
+        android:id="@+id/tv_scarpe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Scarpe"/>
+
+    <TextView
+        android:id="@+id/tv_guanti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Guanti"/>
+
+    <ListView
+        android:id="@+id/lv_list"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"></ListView>
+
+</LinearLayout>

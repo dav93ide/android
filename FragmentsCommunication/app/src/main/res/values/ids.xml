@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mainActivityText" type="id" />
+    <item name="bttnFragment_1" type="id" />
+    <item name="bttnFragment_2" type="id" />
+    <item name="bttnGetValue_1" type="id" />
+    <item name="fragment_1" type="id" />
+    <item name="fragment_2" type="id" />
+    <item name="bttnSetFrag_1" type="id" />
+    <item name="txtSetFrag_1" type="id" />
+    <item name="bttnSetFrag_2" type="id" />
+    <item name="txtSetFrag_2" type="id" />
+    <item name="bttnGetFrag_1" type="id" />
+    <item name="bttnGetFrag_2" type="id" />
+</resources>

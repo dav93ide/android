@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GestureDetection</string>
+    <string name="gestureText">Do Gesture Here!</string>
+    <string name="doneGesture">Done:</string>
+    <string name="radioG1_1" >Enable Common Gesture Listener</string>
+    <string name="radioG1_2" >Enable Custom Gesture Listener</string>
+    <string name="radioG1_3" >Enable Pinch Gesture Listener</string>
+</resources>

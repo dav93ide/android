@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="tw_main_title" type="id" />
+
+    <item name="bttn_login" type="id" />
+    <item name="bttn_stamps" type="id" />
+
+    <item name="et_username" type="id" />
+    <item name="et_password" type="id" />
+
+</resources>

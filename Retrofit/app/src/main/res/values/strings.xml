@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Retrofit</string>
+    <string name="main_title">Testing Retrofit, yO!</string>
+
+    <string name="bttn_login">Login</string>
+    <string name="bttn_stamps">Get Stamps</string>
+
+    <string name="et_username_hint">Username</string>
+    <string name="et_password_hint">Password</string>
+
+</resources>

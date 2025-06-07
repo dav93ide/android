@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string-array name="layouts_array">
+        <item></item>
+        <item>Frame Layout</item>
+        <item>Linear Layout</item>
+        <item>Table Layout</item>
+        <item>Relative Layout</item>
+    </string-array>
+</resources>
